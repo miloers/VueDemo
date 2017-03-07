@@ -1,0 +1,3 @@
+<template>
+    <div id="loading" style="display: none;"><div class="head"></div><div class="stageleft"></div><div class="stageright"></div><div class="stageleft"></div><div class="stageright"></div><div class="stageleft"></div><div class="stageright"></div><div class="stageleft"></div><div class="stageright"></div><div class="stageleft"></div><div class="stageright"></div><div class="stageleft"></div><div class="stageright"></div></div>
+</template>
